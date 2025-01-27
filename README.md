@@ -17,3 +17,4 @@ In short, cognitive modeling is the study of modeling the brain and the mind. Ps
 (testing again, maybe this fixed it?)
 (testing pt. 3, now with proper GPG key)
 (testing pt. 4, waiting for that shiny green badge)
+(testing pt. 5, did it stay up?)
