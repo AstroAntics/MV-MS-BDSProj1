@@ -1,2 +1,1 @@
-# MV-MS-BDSProj1
-Behavioral Data Science Project no. 1
+Create a public GitHub repository, create and add a team logo to the README file, along with some basic introductory notes on why cognitive modeling is important for psychology and cognitive science. Create an environment.yml file and add all dependencies we have discussed so far. Then, in addition to the main branch, create separate branches for each of the two team members, from which you will be merging working code into the main branch.
