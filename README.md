@@ -15,3 +15,4 @@ In short, cognitive modeling is the study of modeling the brain and the mind. Ps
 
 (testing, something weird happens when I use git merge)
 (testing again, maybe this fixed it?)
+(testing pt. 3, now with proper GPG key)
