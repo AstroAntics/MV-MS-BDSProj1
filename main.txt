@@ -1,1 +1,3 @@
 trying git restore
+
+[Deleted file restored successfully -- see commit log]
